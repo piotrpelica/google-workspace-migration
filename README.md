@@ -14,7 +14,7 @@ Hi! Google has announced that the users of the free GSuite will soon have to pay
 
 Also, if your anything like me, you had your family or friends or whoever else there, so you're not looking at paying just for yourself (in this case I might have just given up and do that), you're looking at a bill that gives you nightmares. The instructions below will require doing them for each account individually. Yeah, I know.
 
-As there is no official "click here to migrate to personal account" tool yet (and I guess it's unlikely to appear, as Google's product teams don't seem to talk to each other), I'm gonna publish my journey here, for others to find it easier to migrate the accounts - hopefully before the deadline.
+As there is no official "click here to migrate to personal account" tool yet (and I guess it's unlikely to appear, as Google's product teams don't seem to talk to each other), I'm gonna publish my journey here, for others to find it easier to migrate the accounts - hopefully before the deadline. All of the methods below were tested by me and were working at the time of when they were added. I will do my best to keep this up to date. If something's not working or you know a better way, let me know.
 
 This assumes you're what some call _a computer person_. This is because you have set up a GSuite, which itself does require some computer skills.
 
@@ -62,6 +62,8 @@ The process has started. It can take hours or even days, depending on how much m
 4. On Private account, go to Settings -> Partner Sharing and make sure you enable saving to your photos.
 
 From now on all the photos will be shared with private account and saved there, so once the account is removed, the photos will still be there (in the info you'll find a message saying `Shared by a Google user, Saved to your photos`.
+
+[Based on this](https://support.google.com/photos/thread/80602212/i-want-to-transfer-all-google-photos-to-another-account)
 
 ---
 
