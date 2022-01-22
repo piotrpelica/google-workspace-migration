@@ -46,15 +46,9 @@ The process has started. It can take hours or even days, depending on how much m
 
 ## Calendar
 
-Currently I have found no better way, than sharing the Workspace calendar with Personal account with edit permissions and then moving all the events manually.
-
-This is pain. Please let me know it there's a better way.
-
-1. Login to Workspace account. Go to Google Calendar, Settings and select your calendar.
-2. Go to `Share with specific people` then add the personal account.
-3. Select `Make changes and manage sharing`.
-4. Login to private account, go to Calendar. Deselect all calendars but the workspace one (I've added `workspace` to it's name, so I won't make a mistake). 
-5. Personally I'm using a month view for this. Click on each event, click edit, then under the notification settings change the calendar.
-6. Save and repeat.
-7. ...
-8. Go grab a beer, or whatever you do. You've just moved bazillion events. You deserve it.
+1. Login to your Workspace account and go to Google Calendar.
+2. Go to Settings and select Import & Export.
+3. Click Export. Wait a bit, then download and unzip the file.
+4. Login to your Personal account, go to the Import & Export.
+5. Import all the files you just unzipped (unless you don't want to). This may take a second and there is no indication of progress on the UI. Just wait.
+6. Once finished you'll get a message of how many events were imported.
