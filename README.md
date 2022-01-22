@@ -71,6 +71,8 @@ From now on all the photos will be shared with private account and saved there, 
 1. Go to Workspace's Contacts. On the left select Export, Contacts (so it's all contacts), Google CSV and click Export.
 2. Go to private Contacts. Select Import, upload the file and click Import. Let it do it's job.
 
+IMHO it's now a good time to check the list - merge or delete duplicates, remove old contacts, etc.
+
 ---
 
 More to come
