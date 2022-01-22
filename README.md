@@ -6,6 +6,7 @@ Legacy GSuite to Personal Account
 - [Takeout](#takeout)
 - [Gmail](#gmail)
 - [Calendar](#calendar)
+- [Photos](#photos)
 
 ## What's going on?
 
@@ -52,3 +53,16 @@ The process has started. It can take hours or even days, depending on how much m
 4. Login to your Personal account, go to the Import & Export.
 5. Import all the files you just unzipped (unless you don't want to). This may take a second and there is no indication of progress on the UI. Just wait.
 6. Once finished you'll get a message of how many events were imported.
+
+## Photos
+
+1. Go to Workspace's Google Photos.
+2. Set up Partner Sharing, share all photos.
+3. Accept invitation on Private account.
+4. On Private account, go to Settings -> Partner Sharing and make sure you enable saving to your photos.
+
+From now on all the photos will be shared with private account and saved there, so once the account is removed, the photos will still be there (in the info you'll find a message saying `Shared by a Google user, Saved to your photos`.
+
+---
+
+More to come
