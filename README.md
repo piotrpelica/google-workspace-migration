@@ -14,6 +14,8 @@ Also, if your anything like me, you had your family or friends or whoever else t
 
 As there is no official "click here to migrate to personal account" tool yet (and I guess it's unlikely to appear, as Google's product teams don't seem to talk to each other), I'm gonna publish my journey here, for others to find it easier to migrate the accounts - hopefully before the deadline.
 
+This assumes you're what some call _a computer person_. This is because you have set up a GSuite, which itself does require some computer skills.
+
 Also - this is not [degoogle](https://github.com/tycrek/degoogle). You might be able to use some of this stuff to move to another service provider, but it's mostly Workspace (GSuite) to Personal (Gmail).
 
 ## Contributing
@@ -40,3 +42,18 @@ You'll have to have enabled [less-secure access](https://myaccount.google.com/le
 6. Select options however you like. Click Continue.
 
 The process has started. It can take hours or even days, depending on how much mail you had.
+
+## Calendar
+
+Currently I have found no better way, than sharing the Workspace calendar with Personal account with edit permissions and then moving all the events manually.
+
+This is pain. Please let me know it there's a better way.
+
+1. Login to Workspace account. Go to Google Calendar, Settings and select your calendar.
+2. Go to `Share with specific people` then add the personal account.
+3. Select `Make changes and manage sharing`.
+4. Login to private account, go to Calendar. Deselect all calendars but the workspace one (I've added `workspace` to it's name, so I won't make a mistake). 
+5. Personally I'm using a month view for this. Click on each event, click edit, then under the notification settings change the calendar.
+6. Save and repeat.
+7. ...
+8. Go grab a beer, or whatever you do. You've just moved bazillion events. You deserve it.
