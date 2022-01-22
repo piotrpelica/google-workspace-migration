@@ -7,6 +7,7 @@ Legacy GSuite to Personal Account
 - [Gmail](#gmail)
 - [Calendar](#calendar)
 - [Photos](#photos)
+- [Contacts](#contacts)
 
 ## What's going on?
 
@@ -64,6 +65,11 @@ The process has started. It can take hours or even days, depending on how much m
 From now on all the photos will be shared with private account and saved there, so once the account is removed, the photos will still be there (in the info you'll find a message saying `Shared by a Google user, Saved to your photos`.
 
 [Based on this](https://support.google.com/photos/thread/80602212/i-want-to-transfer-all-google-photos-to-another-account)
+
+## Contacts
+
+1. Go to Workspace's Contacts. On the left select Export, Contacts (so it's all contacts), Google CSV and click Export.
+2. Go to private Contacts. Select Import, upload the file and click Import. Let it do it's job.
 
 ---
 
