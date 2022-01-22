@@ -5,6 +5,7 @@ Legacy GSuite to Personal Account
 
 - [Takeout](#takeout)
 - [Gmail](#gmail)
+- [Calendar](#calendar)
 
 ## What's going on?
 
