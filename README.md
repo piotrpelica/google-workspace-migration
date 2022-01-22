@@ -3,8 +3,8 @@ Legacy GSuite to Personal Account
 
 ## TOC
 
-- Takeout
-- Gmail
+- [Takeout](#takeout)
+- [Gmail](#gmail)
 
 ## What's going on?
 
