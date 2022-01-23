@@ -105,7 +105,11 @@ Easiest and fastest option I've found was to do the following:
 1. Create a transfer folder on Workspace's Drive.
 2. Share that folder with your private account. Make sure you have given yourself Editor permissions.
 3. Move all files to the transfer folder. When prompted for access, allow editing and accept.
-4. On private account's Drive go to the Sharing, open transfer folder, select everything, right click, select Move then left arrow in the top left corner. Select My Drive and click Move. Accept the message that in order for others to have access file will have to be shared again.
+4. For folders here's a trick - you can move the ones you own (if you select list view, you will see "me" in the Owner column). Select those and use Move to from the right-click menu to move them to the transfer folder. 
+   For others:
+   - publicly shared ones you can just copy link and add shortcut in personal drive;
+   - privately shared ones - if you can share them, nice. If not, you'll have to talk to people. Sorry.
+6. On private account's Drive go to the Sharing, open transfer folder, select everything, right click, select Move then left arrow in the top left corner. Select My Drive and click Move. Accept the message that in order for others to have access file will have to be shared again.
 
 Ta dah - all files moved!
 
