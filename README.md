@@ -8,6 +8,8 @@ Legacy GSuite to Personal Account
 - [Calendar](#calendar)
 - [Photos](#photos)
 - [Contacts](#contacts)
+- [My Business](#my-business)
+- [Password Manager](#password-manager)
 
 ## What's going on?
 
@@ -38,7 +40,7 @@ Gmail has an official tool for importing e-mails from other accounts.
 You'll have to have enabled [less-secure access](https://myaccount.google.com/lesssecureapps) or generate an [app password](https://myaccount.google.com/apppasswords). I went with the app password.
 
 1. Make sure that you have [enabled POP](https://support.google.com/mail/answer/7104828) on the Workspace account.
-2. Login to personal account, go to Settings -> See all settings -> Accounts and Import -> Import mail and contacts.
+2. Login to personal account, go to [Gmail's](https://mail.google.com/mail/) Settings -> See all settings -> Accounts and Import -> Import mail and contacts.
 3. Enter the Workspace account's address. Let it do its thing, it may take a moment.
 4. Enter the app password.
 5. Enter full e-mail address as username, then `pop.gmail.com` as POP server, click on Edit next to the port. Select 995 and check `Use SSL`. Click Continue.
@@ -48,7 +50,7 @@ The process has started. It can take hours or even days, depending on how much m
 
 ## Calendar
 
-1. Login to your Workspace account and go to Google Calendar.
+1. Login to your Workspace account and go to [Google Calendar](https://calendar.google.com/calendar/).
 2. Go to Settings and select Import & Export.
 3. Click Export. Wait a bit, then download and unzip the file.
 4. Login to your Personal account, go to the Import & Export.
@@ -57,7 +59,7 @@ The process has started. It can take hours or even days, depending on how much m
 
 ## Photos
 
-1. Go to Workspace's Google Photos.
+1. Go to Workspace's [Google Photos](https://photos.google.com/).
 2. Set up Partner Sharing, share all photos.
 3. Accept invitation on Private account.
 4. On Private account, go to Settings -> Partner Sharing and make sure you enable saving to your photos.
@@ -68,10 +70,32 @@ From now on all the photos will be shared with private account and saved there, 
 
 ## Contacts
 
-1. Go to Workspace's Contacts. On the left select Export, Contacts (so it's all contacts), Google CSV and click Export.
+1. Go to Workspace's [Google Contacts](https://contacts.google.com/). On the left select Export, Contacts (so it's all contacts), Google CSV and click Export.
 2. Go to private Contacts. Select Import, upload the file and click Import. Let it do it's job.
 
 IMHO it's now a good time to check the list - merge or delete duplicates, remove old contacts, etc.
+
+## My Business
+
+This one is easy. Log in to [My Business](https://business.google.com/dashboard/) on the Workspace's account, select the business you want to move, click Users, add your private account as new owner, then change that account to primary owner.
+
+## Password Manager
+
+If you're using [Google Password Manager](https://passwords.google.com/), it offers Export & Import options.
+
+1. On Workspace account go to [Google Password Manager's settings](https://passwords.google.com/options).
+2. Click Export, confirm that you understand that the file stores passwords in plain text and if anyone gets their hands on this file you're doomed.
+3. Confirm that you are you, then wait for the file to be generated. This can take a moment.
+4. On private account go to the settings again, select Import and upload the file.
+
+You can also do it from Chrome, if you're using a Workspace account in your profile.
+
+1. Go to [Passwords](chrome://settings/passwords) - click on your profile icon and then on a key.
+2. Click three dots next to the Saved passwords and select Export.
+3. Confirm you know what you're doing.
+4. Import the file to [Google Password Manager](https://passwords.google.com/options).
+
+That's it - when you log in to Chrome as your private account, it will get the passwords from the Password Manager
 
 ---
 
