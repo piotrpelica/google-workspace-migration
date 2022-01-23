@@ -10,6 +10,7 @@ Legacy GSuite to Personal Account
 - [Contacts](#contacts)
 - [My Business](#my-business)
 - [Password Manager](#password-manager)
+- [Drive](#drive)
 
 ## What's going on?
 
@@ -96,6 +97,17 @@ You can also do it from Chrome, if you're using a Workspace account in your prof
 4. Import the file to [Google Password Manager](https://passwords.google.com/options).
 
 That's it - when you log in to Chrome as your private account, it will get the passwords from the Password Manager
+
+## Drive
+
+Easiest and fastest option I've found was to do the following:
+
+1. Create a transfer folder on Workspace's Drive.
+2. Share that folder with your private account. Make sure you have given yourself Editor permissions.
+3. Move all files to the transfer folder. When prompted for access, allow editing and accept.
+4. On private account's Drive go to the Sharing, open transfer folder, select everything, right click, select Move then left arrow in the top left corner. Select My Drive and click Move. Accept the message that in order for others to have access file will have to be shared again.
+
+Ta dah - all files moved!
 
 ---
 
